@@ -1,6 +1,9 @@
 # UnrealEar
 Realistic sound bouncing Plugin for Unreal Engine 4
 
+| :exclamation:  Development aborted because it became irrelevant with Unreal Engine 5   |
+|----------------------------------------------------------------------------------------|
+
 With the help of LineTraces, the BouncingSoundCue simulates the path the sound would bounce off the walls. 
 If a LineTrace hits the BouncingSoundReceiver, the set sound is played at the hit location. The tone is changed accordingly to its taken path. 
 
